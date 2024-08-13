@@ -1,0 +1,1 @@
+# AI-Model-for-Plant-Disease-Detection-from-Leaf-Images
